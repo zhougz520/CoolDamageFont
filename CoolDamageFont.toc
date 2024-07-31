@@ -1,0 +1,8 @@
+## Interface: 90001
+## Title: CoolDamageFont
+## DefaultState: Enabled
+## Author: Zhougz
+## Version: 1.0
+## Notes: Makes your damage text better
+
+Luas\CoolDamageFont.lua
