@@ -2,7 +2,7 @@
 print("CoolDamageFont v1.0")
 
 -- Locals
-local damagefont_FONT_NUMBER = "Interface\\AddOns\\CoolDamageFont\\font.ttf"
+local damagefont_FONT_NUMBER = "Interface\\AddOns\\CoolDamageFont\\Fonts\\font.ttf"
 
 -- Code Base
 CoolDamageFont = CreateFrame("Frame", "CoolDamageFont")
